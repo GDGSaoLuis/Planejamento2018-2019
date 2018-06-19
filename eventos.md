@@ -1,4 +1,4 @@
-Calendário de Eventos
+Calendário de eventos
 =====================
 
 
@@ -17,3 +17,16 @@ Calendário de Eventos
 | ter, 07/05    | A definir          | A definir        | A definir            | Google I/O Extended '18               |
 | ter, 04/06    | A definir          | A definir        | A definir            | Meetup                                |
 
+
+Fotos de eventos anteriores
+===========================
+
+Veja nossa [galeria](https://photos.app.goo.gl/uh8JCNQuSE1UBKpU8)
+
+
+Participar de um evento
+=======================
+
+Para se inscrever em um evento, acesse nosso [Meetup](https://www.meetup.com/pt-BR/GDG-Sao-Luis).
+
+Lembre-se: a participação em nossos eventos está vinculada ao nosso [código de conduta](https://gdgsaoluis.org/codigo-de-conduta/).
