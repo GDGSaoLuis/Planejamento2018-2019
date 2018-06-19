@@ -17,4 +17,3 @@ Calendário de Eventos
 | ter, 07/05    | A definir          | A definir        | A definir            | Google I/O Extended '18               |
 | ter, 04/06    | A definir          | A definir        | A definir            | Meetup                                |
 
-Todos os eventos do GDG São Luis adotam o seguinte [código de conduta](codigo-conduta.md)
