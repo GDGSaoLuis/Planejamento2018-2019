@@ -4,7 +4,6 @@ Calendário de eventos
 
 | Data          | Local              | Palestrante      | Tema                 | Formato                               |
 |------------   |----------------    |----------------  |--------------------  |-----------------------------------    |
-| ter, 03/07    | A definir          | A definir        | A definir            | Meetup                                |
 | ter, 07/08    | Recoleta (S. Ilha) | Ricardo Coelho   | quase 2019, e agora? | Meetup                                |
 | ter, 04/09    | A definir          | A definir        | A definir            | Meetup                                |
 | ter, 05/10    | A definir          | A definir        | A definir            | DevFest                               |
